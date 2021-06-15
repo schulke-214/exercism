@@ -1,0 +1,195 @@
+Solutions for my exercism tracks
+
+-- Rust
+
+[x] Hello World
+[x] Reverse String
+[x] Gigasecond
+[ ] Clock
+[ ] Anagram
+[ ] Space Age
+[ ] Sublist
+[ ] Minesweeper
+[ ] Luhn
+[ ] Parallel Letter Frequency
+[ ] Macros
+[ ] Poker
+[ ] Forth
+
+[x] Leap
+[x] Raindrops
+[x] Grains
+[x] Pythagorean Triplet
+[x] Nth Prime
+[x] Bob
+[ ] Saddle Points
+[ ] Beer Song
+[ ] Proverb
+[ ] Difference Of Squares
+[ ] Sum Of Multiples
+[ ] Prime Factors
+[ ] Armstrong Numbers
+[ ] Xorcism
+[ ] High Scores
+[ ] Matching Brackets
+[ ] DOT DSL
+[ ] Simple Linked List
+[ ] Pascal's Triangle
+[ ] PaaS I/O
+[ ] Nucleotide Count
+[ ] ETL
+[ ] Acronym
+[ ] Sieve
+[ ] RNA Transcription
+[ ] Triangle
+[ ] Grade School
+[ ] Binary Search
+[ ] Robot Simulator
+[ ] Queen Attack
+[ ] Bowling
+[ ] Tournament
+[ ] Alphametics
+[ ] Two Bucket
+[ ] Spiral Matrix
+[ ] Palindrome Products
+[ ] Isogram
+[ ] Say
+[ ] Run Length Encoding
+[ ] ISBN Verifier
+[ ] Perfect Numbers
+[ ] Hamming
+[ ] Scrabble Score
+[ ] Pangram
+[ ] All Your Base
+[ ] Allergies
+[ ] Affine Cipher
+[ ] Variable Length Quantity
+[ ] Pig Latin
+[ ] Atbash Cipher
+[ ] Crypto Square
+[ ] Rotational Cipher
+[ ] Simple Cipher
+[ ] Rail Fence Cipher
+[ ] Protein Translation
+[ ] Robot Name
+[ ] OCR Numbers
+[ ] React
+[ ] Wordy
+[ ] Custom Set
+[ ] Rectangles
+[ ] Circular Buffer
+[ ] Luhn From
+[ ] Luhn Trait
+[ ] Largest Series Product
+[ ] Word Count
+[ ] Phone Number
+[ ] Diamond
+[ ] Accumulate
+[ ] Fizzy
+[ ] Roman Numerals
+[ ] Series
+[ ] Collatz Conjecture
+[ ] Diffie Hellman
+[ ] Grep
+[ ] Scale Generator
+[ ] Decimal
+[ ] Book Store
+[ ] Dominoes
+[ ] Doubly Linked List
+
+-- Haskell
+
+[x] Hello World
+[x] Leap
+[ ] Space Age
+[ ] Pangram
+[ ] Bob
+[ ] Collatz Conjecture
+[ ] RNA Transcription
+[ ] Nucleotide Count
+[ ] Sum Of Multiples
+[ ] Grains
+
+[x] Diamond
+[ ] Acronym
+[ ] Strain
+[ ] Anagram
+[ ] Clock
+[ ] Crypto Square
+[ ] Nth Prime
+[ ] Luhn
+[ ] Minesweeper
+[ ] Grade School
+[ ] Isogram
+[ ] Armstrong Numbers
+[ ] Difference Of Squares
+[ ] Perfect Numbers
+[ ] Hamming
+[ ] ETL
+[ ] Raindrops
+[ ] Resistor Color Duo
+[ ] Resistor Color Trio
+[ ] Accumulate
+[ ] Phone Number
+[ ] Twelve Days
+[ ] ISBN Verifier
+[ ] Yacht
+[ ] Run Length Encoding
+[ ] Beer Song
+[ ] Triangle
+[ ] Scrabble Score
+[ ] Kindergarten Garden
+[ ] Complex Numbers
+[ ] Robot Simulator
+[ ] Secret Handshake
+[ ] Protein Translation
+[ ] D&D Character
+[ ] Simple Linked List
+[ ] List Ops
+[ ] Meetup
+[ ] Roman Numerals
+[ ] Prime Factors
+[ ] Allergies
+[ ] All Your Base
+[ ] Largest Series Product
+[ ] Matrix
+[ ] House
+[ ] Pascal's Triangle
+[ ] Pythagorean Triplet
+[ ] Saddle Points
+[ ] Series
+[ ] Sieve
+[ ] Proverb
+[ ] Binary Search
+[ ] Atbash Cipher
+[ ] Matching Brackets
+[ ] Word Count
+[ ] Binary Search Tree
+[ ] Queen Attack
+[ ] OCR Numbers
+[ ] Food Chain
+[ ] Rotational Cipher
+[ ] Spiral Matrix
+[ ] Custom Set
+[ ] Parallel Letter Frequency
+[ ] Transpose
+[ ] Simple Cipher
+[ ] Pig Latin
+[ ] Say
+[ ] Bank Account
+[ ] Sublist
+[ ] Rail Fence Cipher
+[ ] Wordy
+[ ] Change
+[ ] Alphametics
+[ ] Bowling
+[ ] Poker
+[ ] Connect
+[ ] Dominoes
+[ ] SGF Parsing
+[ ] Go Counting
+[ ] Lens Person
+[ ] Zipper
+[ ] Forth
+[ ] POV
+
