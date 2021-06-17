@@ -1,6 +1,5 @@
 use std::fmt;
 
-
 const HOUR_LENGTH: i32 = 60;
 const HOURS_PER_DAY: i32 = 24;
 const DAY_LENGTH: i32 = HOURS_PER_DAY * HOUR_LENGTH;
