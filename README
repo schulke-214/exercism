@@ -6,7 +6,7 @@ Solutions for my exercism tracks
 [x] Reverse String
 [x] Gigasecond
 [x] Clock
-[ ] Anagram
+[x] Anagram
 [ ] Space Age
 [ ] Sublist
 [ ] Minesweeper
@@ -24,14 +24,14 @@ Solutions for my exercism tracks
 [x] Bob
 [x] Saddle Points
 [x] Beer Song
-[ ] Proverb
+[x] Proverb
 [x] Difference Of Squares
 [x] Sum Of Multiples
 [ ] Prime Factors
 [ ] Armstrong Numbers
 [ ] Xorcism
 [ ] High Scores
-[ ] Matching Brackets
+[x] Matching Brackets
 [ ] DOT DSL
 [ ] Simple Linked List
 [ ] Pascal's Triangle
