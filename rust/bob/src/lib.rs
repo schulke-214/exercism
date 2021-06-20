@@ -22,7 +22,7 @@ impl From<&str> for MessageType {
             return MessageType::Yelled;
         } else if is_question {
             return MessageType::Question;
-        } if message.trim().len() == 0 {
+        } else if message.trim().is_empty() {
             return MessageType::Empty;
         }
 
