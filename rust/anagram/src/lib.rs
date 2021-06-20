@@ -18,6 +18,6 @@ pub fn anagrams_for<'a>(word: &str, possible_anagrams: &[&'a str]) -> HashSet<&'
         .iter()
         .filter(|a| is_anagram(word, a))
         .filter(|a| a.to_lowercase() != word.to_lowercase())
-        .map(|a| *a)
+        .copied()
         .collect()
 }
