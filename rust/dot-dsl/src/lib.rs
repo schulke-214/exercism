@@ -86,9 +86,8 @@ pub mod graph {
                 pub fn get_attr(&self, attr_id: &str) -> Option<&str> {
                     self.attrs
                         .as_ref()?
-                        .iter()
-                        .find(|a| *a.0 == attr_id)
-                        .map(|a| a.1.as_str())
+                        .get(&attr_id.to_string())
+                        .map(|s| s.as_str())
                 }
             }
         }
@@ -122,9 +121,8 @@ pub mod graph {
                 pub fn get_attr(&self, attr_id: &str) -> Option<&str> {
                     self.attrs
                         .as_ref()?
-                        .iter()
-                        .find(|a| *a.0 == attr_id)
-                        .map(|a| a.1.as_str())
+                        .get(&attr_id.to_string())
+                        .map(|s| s.as_str())
                 }
             }
         }
